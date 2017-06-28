@@ -64,7 +64,7 @@ Mostramos cómo importar los datos en Pandas y en un notebook de Jupyter para co
 
 | Dataset (Portal del datos abiertos)       | Descripción    | 
 | :----------- | :------ | 
-| [02-2017.zip](./pd_trafico/02-2017.zip) | Datos de intensidad de tráfico cada 15 minutos | 
+| [02-2017.zip](https://drive.google.com/file/d/0B0t9M1np1rY_QkR2bEJqTER5cUE/view?usp=sharing) | Datos de intensidad de tráfico cada 15 minutos | 
 
 
 | Otros datasets       | Descripción    | 
